@@ -17,7 +17,7 @@
 
 ## Deploy do Projeto: 
 
-### Click:point_right: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy-nlw-happy.herokuapp.com/) 
+### Click:point_right: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dino-nlw-proffy.herokuapp.com/) 
 <br>
 <br>
 
@@ -80,7 +80,9 @@ git clone https://github.com/devDinoFukuda/nlwProffy.git <br> <br>
 
 ## Contatos:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](www.linkedin.com/in/devdinofukuda)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:dev.dinofukuda@gmail.com)
+
+<a href="www.linkedin.com/in/devdinofukuda/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" alt=""/></a>
+<a href="mailto:dev.dinofukuda@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link" alt=""/></a>
+
 
 ### Obrigado por sua visita!! :nerd_face:
