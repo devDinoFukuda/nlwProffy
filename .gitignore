@@ -1,0 +1,11 @@
+.vscode/
+
+backup/
+
+node_modules/
+
+public/scripts/redirectStudy.js
+
+src/database/fake_data.js
+
+src/database/test.js
